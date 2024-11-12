@@ -80,7 +80,8 @@ section div a {
   margin-top: 1rem;
 }
 .attribution a {
-  color: hsl(228, 45%, 44%);
+  color: black;
+  text-decoration: none;
 }
 
 @media (max-width: 480px) {
